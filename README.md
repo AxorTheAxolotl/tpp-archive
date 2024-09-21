@@ -1,12 +1,16 @@
+# Archived
+
+This is an archive of The Preservation Project, cloned on March 11, 2024.
+
 # The Preservation Project
 
 This repo contains a modified decompilation of Super Mario 64 which aims to recreate the SpaceWorld 1995 build.
 
 As of June 2022, The Preservation Project has become an open source project, meaning the community can contribute to it to make it a perpetually improving recreation.
 
-Please create any issues you find and feel free to pull request, any contributions are appreciated.
+~~Please create any issues you find and feel free to pull request, any contributions are appreciated.~~
 
-Original assets, to-do lists and more can soon be found in a special repository.
+~~Original assets, to-do lists and more can soon be found in a special repository.~~
 
 ## Credits
 
